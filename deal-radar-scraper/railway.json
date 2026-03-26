@@ -1,0 +1,6 @@
+{
+  "deploy": {
+    "startCommand": "python scraper.py",
+    "restartPolicyType": "ON_FAILURE"
+  }
+}
